@@ -50,35 +50,35 @@ const ProductList = () => {
         <div className="flex flex-nowrap space-x-4">
           {/* 5 visible product cards */}
           <ProductCard
-            image="https://via.placeholder.com/150"
+            image="https://s.alicdn.com/@sc04/kf/H27373c61d9b44a3bb754457cdf9a07fcH.jpg_720x720q50.jpg"
             name="Mechanical Keyboard"
             price={49.99}
             oldPrice={69.99}
             reviews={85}
           />
           <ProductCard
-            image="https://via.placeholder.com/150"
+            image="https://i.pinimg.com/736x/6e/7c/98/6e7c98fc2c3d79a2d6ddf8e4ff4cb564.jpg"
             name="Gaming Mouse"
             price={89.99}
             oldPrice={109.99}
             reviews={120}
           />
           <ProductCard
-            image="https://via.placeholder.com/150"
+            image="https://de2wfhoo6xqi5.cloudfront.net/size/600/fb6/99b/4aad04567452548330ee07a466f5ac9c60.jpg"
             name="Comfort Chair"
             price={379.99}
             oldPrice={499.99}
             reviews={95}
           />
           <ProductCard
-            image="https://via.placeholder.com/150"
+            image="https://img.freepik.com/premium-photo/logo-branding-gaming-monitor_1029476-308633.jpg"
             name="Gaming Monitor"
             price={149.99}
             oldPrice={199.99}
             reviews={65}
           />
           <ProductCard
-            image="https://via.placeholder.com/150"
+            image="https://img.drz.lazcdn.com/static/pk/p/321b74be84c7befc1ed71e832a8ca28a.jpg_720x720q80.jpg"
             name="LED Desk Lamp"
             price={39.99}
             oldPrice={59.99}
@@ -89,14 +89,14 @@ const ProductList = () => {
         {/* Additional products */}
         <div className="flex flex-nowrap space-x-4">
           <ProductCard
-            image="https://via.placeholder.com/150"
+            image="https://powerhouseexpress.com.pk/cdn/shop/files/BoostSonicWirelessHeadset-4.jpg?v=1706705136"
             name="Wireless Headset"
             price={69.99}
             oldPrice={89.99}
             reviews={75}
           />
           <ProductCard
-            image="https://via.placeholder.com/150"
+            image="https://m.media-amazon.com/images/I/817VI3DpflL._AC_UF894,1000_QL80_.jpg"
             name="Gaming Chair"
             price={249.99}
             oldPrice={299.99}

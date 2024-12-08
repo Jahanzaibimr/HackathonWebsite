@@ -9,9 +9,9 @@ import CountdownStatic from './components/CountdownStatic';
 
 export default function Home() {
   const sliderImages = [
-    "/gamingchair.png",
-    "/Newproduct.jpg",
-    "/slider3.jpg",
+    "https://www.xdrive.com.tr/Data/BlockUploadData/slider/img1/261/gaming-chairs-series-banner-1-en.webp?1695744580",
+    "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/184688612/original/ef91eb2eeb0cee5579002e60a350d335df8e1909/do-professional-pc-gaming-banner.jpg",
+    "https://dlcdnwebimgs.asus.com/gain/9F8C42DB-36CE-4003-95E1-94E92594127F/fwebp",
   ];
 
   
